@@ -8,29 +8,29 @@ NoLimitSecu – https://www.nolimitsecu.fr/ – @nolimitsecu <br />
 Cybersécurité All Day – https://www.cybersecuriteallday.fr/ – Linkedin<br />
 HacktBack CyberTalk – https://podcast.ausha.co/cybertalk – @HacktBack<br />
 Hack’n Speak – https://anchor.fm/hacknspeak – @hacknspeak<br />
-RadioCSIRT - https://www.radiocsirt.org/
-French Connection – https://securite.fm/about.html – @SecuritePodcast
-On dit chiffrer – https://feeds.acast.com/public/shows/on-dit-chiffrer – @OnDitChiffrer
-Parlons RGPD & Securite – TNP – https://podcast.ausha.co/parlons-gdpr-securite-by-tnp
-INTRAsec – https://podcast.ausha.co/intrasec
-Let's talk about Sec - https://podcastaddict.com/podcast/let-s-talk-about-sec/4838402
+RadioCSIRT - https://www.radiocsirt.org/<br />
+French Connection – https://securite.fm/about.html – @SecuritePodcast<br />
+On dit chiffrer – https://feeds.acast.com/public/shows/on-dit-chiffrer – @OnDitChiffrer<br />
+Parlons RGPD & Securite – TNP – https://podcast.ausha.co/parlons-gdpr-securite-by-tnp<br />
+INTRAsec – https://podcast.ausha.co/intrasec<br />
+Let's talk about Sec - https://podcastaddict.com/podcast/let-s-talk-about-sec/4838402<br />
 
 ### Les podcasts qui semble en pause
 
-Crypto.Québec – Les Chiens de garde – https://crypto.quebec/ – @cryptoqc
-Le compteoire secu – https://www.comptoirsecu.fr/ – @comptoirsecu
-No Log – https://shows.acast.com/no-log – @nologpodcast
+Crypto.Québec – Les Chiens de garde – https://crypto.quebec/ – @cryptoqc<br />
+Le compteoire secu – https://www.comptoirsecu.fr/ – @comptoirsecu<br />
+No Log – https://shows.acast.com/no-log – @nologpodcast<br />
 
 ## Podcast autour du DevOps
-Message a caractère informatique – CleverCloud – https://www.clever-cloud.com/fr/podcast/
-Deez is la tech - Deezer - https://www.deezer.com/fr/show/5244847
-ElectoMonkeys – https://electro-monkeys.fr/
-Dev’Obs – https://devobs.p7t.tech/episodes
-Les compagnons du devops – https://www.youtube.com/channel/UCauIDghddUNu6Fto1nR9Bmg/videos
-WeSpeakCloud – https://podcastaddict.com/podcast/2664488 – @YesWeScale
+Message a caractère informatique – CleverCloud – https://www.clever-cloud.com/fr/podcast/<br />
+Deez is la tech - Deezer - https://www.deezer.com/fr/show/5244847<br />
+ElectoMonkeys – https://electro-monkeys.fr/<br />
+Dev’Obs – https://devobs.p7t.tech/episodes<br />
+Les compagnons du devops – https://www.youtube.com/channel/UCauIDghddUNu6Fto1nR9Bmg/videos<br />
+WeSpeakCloud – https://podcastaddict.com/podcast/2664488 – @YesWeScale<br />
 
 ## Podcast autour du Dev
-Les Cast Codeurs – https://lescastcodeurs.com/
-IfThisThenDev – https://ifttd.io/
-PunkinDev - https://podcast.ausha.co/punkindev
+Les Cast Codeurs – https://lescastcodeurs.com/<br />
+IfThisThenDev – https://ifttd.io/<br />
+PunkinDev - https://podcast.ausha.co/punkindev<br />
 
