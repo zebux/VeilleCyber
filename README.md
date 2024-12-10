@@ -5,8 +5,11 @@ Voici un petit repo pour partager les podcasts orienté CyberSécurité et d'aut
 
 ## Podcast CyberSécurité
 NoLimitSecu – https://www.nolimitsecu.fr/ – @nolimitsecu
+
 Cybersécurité All Day – https://www.cybersecuriteallday.fr/ – Linkedin
+
 HacktBack CyberTalk – https://podcast.ausha.co/cybertalk – @HacktBack
+
 Hack’n Speak – https://anchor.fm/hacknspeak – @hacknspeak
 RadioCSIRT - https://www.radiocsirt.org/
 French Connection – https://securite.fm/about.html – @SecuritePodcast
