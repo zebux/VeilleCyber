@@ -5,11 +5,8 @@ Voici un petit repo pour partager les podcasts orienté CyberSécurité et d'aut
 
 ## Podcast CyberSécurité
 NoLimitSecu – https://www.nolimitsecu.fr/ – @nolimitsecu
-
 Cybersécurité All Day – https://www.cybersecuriteallday.fr/ – Linkedin
-
 HacktBack CyberTalk – https://podcast.ausha.co/cybertalk – @HacktBack
-
 Hack’n Speak – https://anchor.fm/hacknspeak – @hacknspeak
 RadioCSIRT - https://www.radiocsirt.org/
 French Connection – https://securite.fm/about.html – @SecuritePodcast
@@ -18,7 +15,8 @@ Parlons RGPD & Securite – TNP – https://podcast.ausha.co/parlons-gdpr-securi
 INTRAsec – https://podcast.ausha.co/intrasec
 Let's talk about Sec - https://podcastaddict.com/podcast/let-s-talk-about-sec/4838402
 
-# Les podcasts qui semble en pause
+### Les podcasts qui semble en pause
+
 Crypto.Québec – Les Chiens de garde – https://crypto.quebec/ – @cryptoqc
 Le compteoire secu – https://www.comptoirsecu.fr/ – @comptoirsecu
 No Log – https://shows.acast.com/no-log – @nologpodcast
