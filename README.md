@@ -7,8 +7,7 @@ Voici un petit repo pour partager les podcasts en français orientés CyberSécu
 ## Podcast CyberSécurité
 RadioCSIRT - https://www.radiocsirt.org/<br />
 NoLimitSecu – https://www.nolimitsecu.fr/ – @nolimitsecu <br />
-La cybersécurité expliquée à ma grand-mère
- - https://podcast.ausha.co/la-cyber-securite-expliquee-a-ma-grand-mere <br />
+La cybersécurité expliquée à ma grand-mère - https://podcast.ausha.co/la-cyber-securite-expliquee-a-ma-grand-mere <br />
 Cybersécurité All Day – https://www.cybersecuriteallday.fr/ – Linkedin<br />
 HacktBack CyberTalk – https://podcast.ausha.co/cybertalk – @HacktBack<br />
 Hack’n Speak – https://anchor.fm/hacknspeak – @hacknspeak<br />
@@ -30,12 +29,14 @@ hackstock - https://hackstock.net/podcasts/<br />
 
 ## Podcast autour du DevOps
 Message a caractère informatique – CleverCloud – https://www.clever-cloud.com/fr/podcast/<br />
+On Azure Grave - https://shows.acast.com/on-azure-grave-onag <br/>
 Deez is la tech - Deezer - https://www.deezer.com/fr/show/5244847<br />
 ElectoMonkeys – https://electro-monkeys.fr/<br />
 Dev’Obs – https://devobs.p7t.tech/episodes<br />
 Dans la tech - https://open.spotify.com/show/0GlIJ34eW9qg0yKvHmlFUh <br />
 Les compagnons du devops – https://www.youtube.com/channel/UCauIDghddUNu6Fto1nR9Bmg/videos<br />
 WeSpeakCloud – https://podcastaddict.com/podcast/2664488 – @YesWeScale<br />
+
 
 ## Podcast autour du Dev
 Les Cast Codeurs – https://lescastcodeurs.com/<br />
