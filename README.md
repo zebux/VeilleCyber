@@ -14,12 +14,16 @@ On dit chiffrer – https://feeds.acast.com/public/shows/on-dit-chiffrer – @On
 Parlons RGPD & Securite – TNP – https://podcast.ausha.co/parlons-gdpr-securite-by-tnp<br />
 INTRAsec – https://podcast.ausha.co/intrasec<br />
 Let's talk about Sec - https://podcastaddict.com/podcast/let-s-talk-about-sec/4838402<br />
+Le monde de la cyber - https://podcastaddict.com/podcast/le-monde-de-la-cyber/4110724 <br />
+Objectif Cyber - Capgemini - https://www.capgemini.com/fr-fr/perspectives/publications/podcast-objectif-tech/objectif-cyber/<br />
+
 
 ### Les podcasts qui semble en pause
 
 Crypto.Québec – Les Chiens de garde – https://crypto.quebec/ – @cryptoqc<br />
 Le compteoire secu – https://www.comptoirsecu.fr/ – @comptoirsecu<br />
 No Log – https://shows.acast.com/no-log – @nologpodcast<br />
+hackstock - https://hackstock.net/podcasts/<br />
 
 ## Podcast autour du DevOps
 Message a caractère informatique – CleverCloud – https://www.clever-cloud.com/fr/podcast/<br />
